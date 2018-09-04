@@ -11,7 +11,7 @@ the Clear Linux OS content and organization, but differs in some way.
 This project is for people who want to custom tailor the
 Clear Linux OS for their personal or professional purposes,
 but plan to update their content regularly with updates from
-[https://clearlinux.org/](clearlinux.org).
+[clearlinux.org](https://clearlinux.org/).
 
 You can make unlimited modifications to the Clear Linux OS. You
 can change the organization and not the content, or you can remove
@@ -21,4 +21,4 @@ are also described in this project.
 
 ## Issues?
 
-See [https://github.com/clearlinux/how-to-clear/blob/master/01-index.md#need-help]
+See the [need-help](01-index.md#need-help) section.
